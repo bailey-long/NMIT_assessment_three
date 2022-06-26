@@ -1,0 +1,15 @@
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\bin\Debug\net6.0\Task_One.exe
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\bin\Debug\net6.0\Task_One.deps.json
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\bin\Debug\net6.0\Task_One.runtimeconfig.json
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\bin\Debug\net6.0\Task_One.dll
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\bin\Debug\net6.0\Task_One.pdb
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.csproj.AssemblyReference.cache
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.AssemblyInfoInputs.cache
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.AssemblyInfo.cs
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.csproj.CoreCompileInputs.cache
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.dll
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\refint\Task_One.dll
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.pdb
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\Task_One.genruntimeconfig.cache
+C:\Users\Loopypew\source\repos\assessment_three_sdv503_2022-bailey-long\Task_One\Task_One\obj\Debug\net6.0\ref\Task_One.dll

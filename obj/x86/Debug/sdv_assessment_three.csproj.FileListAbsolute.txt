@@ -1,0 +1,4 @@
+C:\Users\fiveb\workspace\assessment_three_sdv503_2022-bailey-long\obj\x86\Debug\sdv_assessment_three.csproj.AssemblyReference.cache
+C:\Users\fiveb\workspace\assessment_three_sdv503_2022-bailey-long\obj\x86\Debug\sdv_assessment_three.csproj.CoreCompileInputs.cache
+C:\Users\Loopypew\Source\Repos\assessment_three_sdv503_2022-bailey-long\obj\x86\Debug\sdv_assessment_three.csproj.AssemblyReference.cache
+C:\Users\Loopypew\Source\Repos\assessment_three_sdv503_2022-bailey-long\obj\x86\Debug\sdv_assessment_three.csproj.CoreCompileInputs.cache
